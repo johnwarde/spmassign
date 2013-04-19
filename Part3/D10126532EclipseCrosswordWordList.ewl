@@ -1,14 +1,3 @@
-; EclipseCrossword word list
-; for Software Project Management Assessment Part 2
-; D10126532 John Warde DT230B
-; TODO: remove comments below before submission
-; Develop 20 questions and clues 
-; Include details of sources used to research the topic.
-; i.e. revision and test tool for someone intending to sit the Project Management Institutes PMP certification. 
-; Should test knowledge of quality management and how this integrates with project management overall.
-; In addition to material covered in lectures, a range of free PMP practice exams are available on the web.
-; Clues should not be simple questions – each clue must require thought to decide the correct answer.
-
 QUALITYASSURANCE:  Process engineering whose goal is to develop high quality products
 BENCHMARKING:  Process of comparing specific project practices to those of other projects
 SUGGESTION: System by which employees can submit improvment ideas
@@ -21,4 +10,23 @@ REQUIREMENTS: Quality of these serious affect the end product
 RISK: 
 CAUSES: All risks have these
 CREEP: Scope _____ can cause a decline in quality.????
+STAKEHOLDER: Has input into the Plan Quality process
+ACCURACY: A measurement of requirements   
+FAILURE: A type quality cost
+INSPECTION: __________ keeps errors away from customers
+ISHIKAWA: The _________ diagram can help break down as problem and identify possible causes
+RISK: TODO: Risk?
 
+
+
+; Currently 18 x 18 size works
+; EclipseCrossword word list
+; for Software Project Management Assessment Part 2
+; D10126532 John Warde DT230B
+; TODO: remove comments below before submission
+; Develop 20 questions and clues 
+; Include details of sources used to research the topic.
+; i.e. revision and test tool for someone intending to sit the Project Management Institutes PMP certification. 
+; Should test knowledge of quality management and how this integrates with project management overall.
+; In addition to material covered in lectures, a range of free PMP practice exams are available on the web.
+; Clues should not be simple questions – each clue must require thought to decide the correct answer.
