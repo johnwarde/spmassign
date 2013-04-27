@@ -1,25 +1,25 @@
 QUALITYASSURANCE:  Process engineering whose goal is to develop high quality products
-BENCHMARKING:  Process of comparing specific project practices to those of other projects
+BENCHMARKING:  Process of comparing one project to another.
 SUGGESTION: System by which employees can submit improvment ideas
-PARETO: Analysis to identify commonality of causes to problems
-RUN: This chart showing process varation and trends
+PARETO: Identify commonality of causes to problems
+RUN: This chart shows process varation and trends
 PEERREVIEW: Colleagues helping to improve quality
 CONFORMANCE: Price of ________
-TOTAL: ________ Quality Management
-REQUIREMENTS: Quality of these serious affect the end product
-RISK: 
+REQUIREMENTS: Quality of these can seriousily affect the end product.
 CAUSES: All risks have these
-CREEP: Scope _____ can cause a decline in quality.????
+CREEP: Scope _____ can lead to a decline in quality
 STAKEHOLDER: Has input into the Plan Quality process
 ACCURACY: A measurement of requirements   
-FAILURE: A type quality cost
 INSPECTION: __________ keeps errors away from customers
 ISHIKAWA: The _________ diagram can help break down as problem and identify possible causes
-RISK: TODO: Risk?
+RISKREGISTER: Exceptional Plan
+MAINTAINABILITY: Project characteristic that impacts quality
+MORALE: Low _______ can be both a cause and a by-product of poor quality
+OWNERSHIP: ________ of project's products and processes will increase quality 
+FAILURE: A type quality cost
+EXPERIENCE: personal trait that can increase quality.
 
-
-
-; Currently 18 x 18 size works
+; Currently 21 x 21 size works
 ; EclipseCrossword word list
 ; for Software Project Management Assessment Part 2
 ; D10126532 John Warde DT230B
